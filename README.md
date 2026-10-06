@@ -2,8 +2,8 @@
 
 > **AI DevFest 2026 Solo Vibe-Coding Contest**  
 > **Repository:** [devfest-solo-tenderpack](https://github.com/)  
-> **Participant Name:** [Contestant Name]  
-> **Registration Number:** [Registration Number]  
+> **Participant Name:** [Farhana Meherin Rimu]  
+> **Registration Number:** [242-15-958]  
 > **Public HTTPS Live Link:** https://tenderpack.vercel.app / https://[username].github.io/devfest-submission/
 
 ---
