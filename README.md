@@ -4,7 +4,7 @@
 > **Repository:** [devfest-solo-tenderpack](https://github.com/)  
 > **Participant Name:** [Farhana Meherin Rimu]  
 > **Registration Number:** [242-15-958]  
-> **Public HTTPS Live Link:** https://tenderpack.vercel.app / https://[username].github.io/devfest-submission/
+> **Public HTTPS Live Link:** [https://tenderpack.vercel.app / https://[username].github.io/devfest-submission/](https://tender-pack-document-builder--farhana958.replit.app)
 
 ---
 
